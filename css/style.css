@@ -2439,14 +2439,23 @@ s .process span:before {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  background: linear-gradient(180deg, #000000 -11.93%, #052038 100%);
+  background: linear-gradient(180.21deg, #0B231A -49.82%, #003052 8.51%, #E0307A 94.13%, rgba(167, 56, 116, 0.997991) 188.42%, rgba(31, 101, 206, 0.98) 188.44%);
   color: #fff;
-  padding:30px 0px;
+  padding:30px 0px 0px 0px;
   text-align:center;
+  min-height:320px;
   
   
 }
+.footer .container-fluid{
+  padding:0px;
+}
+#decoration-footer-esq, #decoration-footer-dir{
+  margin-top:110px;
+  
+}
 .whatsapp{
+  padding-top:140px;
   font-size:22px;
 }
 .whatsapp .title{
