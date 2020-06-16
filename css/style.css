@@ -1661,11 +1661,11 @@ s .process span:before {
   font-size: 14px;
 }
 .works h2 {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 20px;
   line-height: 1.2;
-  padding-right: 35%;
+ 
   color: #455c83;
 }
 .works h2:before {
