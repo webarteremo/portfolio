@@ -61,7 +61,7 @@ body {
 
 /* CUSTOM HTML ELEMENTS */
 img {
-  max-width: 100%;
+  
 }
 
 /* CUSTOM ELEMENTS */
@@ -1665,9 +1665,12 @@ s .process span:before {
   font-weight: 800;
   font-size: 20px;
   line-height: 1.2;
+  font-weight:400;
  
   color: #455c83;
 }
+
+
 .works h2:before {
   content: attr(data-text);
   font-size: 20vw;
